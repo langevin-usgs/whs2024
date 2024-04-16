@@ -19,15 +19,26 @@ This course is suited for hydrogeologists interested in learning about the Pytho
 ## Agenda
 
 ### Morning Session
-* Understanding and installing Python distributions and environments
-* Introduction to writing Python scripts
-* Reading, processing, and plotting data using Numpy, Matplotlib, and Pandas
+* Getting Started
+  - Understanding and installing Python distributions and environments
+  - Jupyter notebooks
+* Python basics
+  - Python as a calculator
+  - Variables and assignment
+  - Strings
+  - Lists, tuples, and dictionaries
+  - Loops and conditionals
+  - Working with files
+* Numpy
+  - Creating arrays
+  - Indexing
+  - Array expressions
+* Matplotlib
 
 ### Afternoon Session
-* Working with spatial data
-* Solving analytical groundwater equations
+* Theis example
 * Creating animations
 * Constructing, running, and post-processing a MODFLOW groundwater model
 
 ## Software
-TBD
+See the [Software Page](./SOFTWARE.md) for software installation sections.
