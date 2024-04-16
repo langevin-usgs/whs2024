@@ -13,7 +13,7 @@ The following instructions will guide you through the installation process and s
 We will use an environment file to create a containerized version of Python and the Python packages needed for the class.  An environment file is simply a list of packages that we want to install in our environment.
 
 1. Using a text editor, such as Notepad or Notepad++, create a file called `environment.yml`.  It should have the following 
-contents.  Save this file to your hard drive, preferably in your user home folder so that it can be easily accessed in the next step.
+contents.  Save this file to your hard drive, preferably in your user home folder so that it can be easily accessed in the next step. (Caution!  Notepad will automatically append a .txt suffix to your file name.)
 
 ```
 name: whs2024

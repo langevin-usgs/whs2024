@@ -41,4 +41,4 @@ This course is suited for hydrogeologists interested in learning about the Pytho
 * Constructing, running, and post-processing a MODFLOW groundwater model
 
 ## Software
-See the [Software Page](./SOFTWARE.md) for software installation sections.
+See the [Software Installation Page](./SOFTWARE.md) for software installation sections.
