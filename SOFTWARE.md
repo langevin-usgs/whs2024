@@ -5,15 +5,15 @@ The following instructions will guide you through the installation process and s
 
 ## Part 1 -- Install Miniforge
 1. Go to the miniforge website and download the installer (https://github.com/conda-forge/miniforge) for your platform.
-2. Run the installer program that you downloaded.  On Windows the installer is called Miniforge3-Windows-x86_64.exe.
+2. Run the installer program that you downloaded.  On Windows the installer is called `Miniforge3-Windows-x86_64.exe`.
 3. Click through the installer options, and select "Just Me (recommended)" if asked.  Default installation options should be fine, with the exception that you should select an installation location that does not have any special characters or spaces in it.
 4. After installation, you should see "Miniforge Prompt" as a program under the Windows Start menu.
 
 ## Part 2 -- Create an Environment File
-We will use an environment file to create a containerized version of Python and packages needed for the class.  An environment file is simply a list of packages that we want to install.
+We will use an environment file to create a containerized version of Python and the Python packages needed for the class.  An environment file is simply a list of packages that we want to install in our environment.
 
 1. Using a text editor, such as Notepad or Notepad++, create a file called `environment.yml`.  It should have the following 
-contents.  Save this file to your hard drive, preferably near the miniforge installation location.
+contents.  Save this file to your hard drive, preferably in your user home folder so that it can be easily accessed in the next step.
 
 ```
 name: whs2024
@@ -63,7 +63,7 @@ dependencies:
 ## Part 3.  Create the whs2024 Environment
 
 1. Start the miniforge prompt from the Windows start menu.  This will bring up a Windows terminal.
-2. At the terminal prompt enter the following command, where `<path to file>` is the location of the environment.yml file that you created in Part 2.  You will need to be connected to the internet for this to work properly.
+2. At the terminal prompt enter the following command, where `<path to file>` is the location of the `environment.yml` file that you created in Part 2.  You will need to be connected to the internet for this to work properly.  The installation process may take a couple of minutes.
 ```
 mamba env create --file <path to file>/environment.yml
 ```
