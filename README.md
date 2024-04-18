@@ -16,9 +16,26 @@ This course is suited for hydrogeologists interested in learning about the Pytho
 ## Instructor
 * [Christian Langevin, US Geological Survey](https://www.usgs.gov/staff-profiles/christian-langevin)
 
+## Workshop Logistics
+On Thursday, April 25, all workshops are running from 8 AM to 5 PM. Continental breakfast will be available from 7:30-8:00 AM. There will be a mid-morning break 9:30-9:50 AM and an afternoon break from 3:00-3:20 PM, both with coffee, tea, and light refreshments.
+
 ## Agenda
 
-### Morning Session
+| Time | Subject |
+| --- | --- |
+| 8:00 | Introductions |
+| 8:15 | Getting started |
+| 9:30 | Break |
+| 9:50 | Numpy and Matplotlib |
+| 12:00 | Lunch |
+| 1:00 | Theis drawdown exercise |
+| 2:30 | FloPy and MODFLOW |
+| 3:00 | Break |
+| 3:20 | FloPy and MODFLOW (cont) |
+| 4:45 | Wrap up |
+| 5:00 | Adjourn |
+
+## Topics
 * Getting Started
   - Understanding and installing Python distributions and environments
   - Jupyter notebooks
@@ -34,8 +51,6 @@ This course is suited for hydrogeologists interested in learning about the Pytho
   - Indexing
   - Array expressions
 * Matplotlib
-
-### Afternoon Session
 * Theis example
 * Creating animations
 * Constructing, running, and post-processing a MODFLOW groundwater model
