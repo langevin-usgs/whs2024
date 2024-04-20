@@ -5,10 +5,10 @@ dependencies:
 
   # primary dependencies
   - python
-  - numpy
-  - matplotlib
+  - numpy >=1.15.0,<2.0.0
+  - matplotlib >=1.4.0
+  - pandas >=2.0.0
   - scipy
-  - pandas
   - flopy
 
   # other useful packages
