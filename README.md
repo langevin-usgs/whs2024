@@ -56,4 +56,8 @@ On Thursday, April 25, all workshops are running from 8 AM to 5 PM. Continental 
 * Constructing, running, and post-processing a MODFLOW groundwater model
 
 ## Software
-See the [Software Installation Page](./SOFTWARE.md) for software installation sections.
+See the [Software Installation Page](./SOFTWARE.md) for software installation instructions.
+
+If you encounter problems with the software installation, you may be able to run the notebooks through binder.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/langevin-usgs/whs2024/HEAD)

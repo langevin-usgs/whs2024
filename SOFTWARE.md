@@ -84,3 +84,7 @@ The setup is complete.  We will start using jupyter notebooks the morning of the
 
 # Preparation for the Workshop
 If you have never used Python before, there are many online resources for getting started.  A recommendation is to start with the tutorial at https://cscircles.cemc.uwaterloo.ca/.
+
+# If Software Installation Fails
+
+Notebooks can be run from mybinder.org through the following link: https://mybinder.org/v2/gh/langevin-usgs/whs2024/HEAD
